@@ -5,9 +5,9 @@
 ## To Do's
 ### Ahora
 1. Formularios CRUD projects
-2. Collection Clientes
+2. Login/Register usuarios (Clientes?)
 3. Upload docs (pdf, imágenes, otros)
-4. Filtros en la lista de porjects
+4. Filtros en la lista de projects
 5. Hacer visible última actividad en la app web
 
 ### Fase 2
