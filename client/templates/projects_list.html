@@ -1,7 +1,27 @@
 <template name="projectsList">
-  <ul class="list-group">
+  <table class="table table-bordered table-hover">
+    <thead>
+      <tr>
+        <td>Code</td>
+        <td>Reference</td>
+        <td>STATUS</td>
+        <td>Actions</td>
+      </tr>
+     </thead>
     {{#each projects}}
-      <li>{{ alg }}</li>
+    <tbody>
+      <tr>
+        <td>{{ alg }}</td>
+        <td>{{ ref }}</td>
+        <td>{{ estado }}</td>
+        <td>
+          <button class="btn btn-success" type="submit">Edit</button>
+          <button class="btn btn-danger" type="submit">Remove</button>
+          <button class="btn btn-default" type="submit">Other</button>
+        </td>
+      </tr>
+    </tbody>
     {{/each}}
-  </ul>
+  </table>
+
 </template>
