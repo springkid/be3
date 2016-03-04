@@ -1,6 +1,6 @@
 # be3
 
-## B3 - Sistema de administración de presupuestos y proyectos de aluminio.
+## B3 - Sistema de administración de proyectos.
 
 ## To Do's
 ### Ahora
