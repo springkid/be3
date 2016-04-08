@@ -17,4 +17,4 @@
 1. Decidir : tipos de projects
 
 
-Tecnología(s) : MeteorJS
+Tecnología(s) : MeteorJS, mongodb
